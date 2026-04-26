@@ -5,6 +5,14 @@ using namespace std;
 #define STACKOVERFLOW -1
 #define STACKUNDERFLOW -2
 
+////////////////////////////////////////////////////////////////////////////
+//
+// Class        - ArrayStack
+// Description  - Implementation of Stack using Array
+// Author       - Kundan Jangale
+//
+////////////////////////////////////////////////////////////////////////////
+
 class ArrayStack{
     private:
         int top;
